@@ -1,7 +1,7 @@
-BINGECHECK - Built by Madhav, and 2 other classmates in a class project!
+BINGECHECK - Built by Madhav, and classmates in a class project!
 ********************************************************************************************************************************************
 
-Welcome to BingeCheck a movie search Android App. BingeCheck uses TheMovieDb API to request information on your favorite movies and tv shows
+Welcome to BingeCheck, a movie search Android App. BingeCheck uses TheMovieDb API to request information on your favorite movies and tv shows
 
 HOW TO SEARCH:
 	1. Boot up BingeCheck
