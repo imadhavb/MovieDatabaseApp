@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BingeCheck</string>
+    <string name="title1">Enter Movie Name:</string>
+    <string name="searchButtonText">Search</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recent">Recently Viewed</string>
+    <string name="rating">Rating</string>
+    <string name="Lang">Language</string>
+    <string name="List">Add</string>
+    <string name="ListRecyclerview">My List</string>
+    <string name="Search">Search Results</string>
+    <string name="ListHint">Long Press to Delete from List</string>
+    <string name="ok">Go back</string>
+    <string name="notification_channel_description">Want to get a look at your favorite movie? Open BingeWatch now!</string>
+</resources>
